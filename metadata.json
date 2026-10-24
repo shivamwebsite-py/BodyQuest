@@ -1,0 +1,6 @@
+{
+  "name": "BodyQuest — Explore the Human Body",
+  "description": "Interactive science museum and discovery platform exploring human organs, body systems, daily challenges, and quizzes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
